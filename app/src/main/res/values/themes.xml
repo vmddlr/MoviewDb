@@ -16,7 +16,7 @@
 
 
     <style name="Theme.Splash" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/creme</item>
+        <item name="windowSplashScreenBackground">@color/black</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/rap</item>
         <item name="postSplashScreenTheme">@style/Theme.MovieDB</item>
     </style>
