@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_title">eMovies</string>
+    <string name="str_up_coming">Proximos estrenos</string>
+    <string name="str_top_rate">Tendencia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_show_preview">Ver trailer</string>
+    <string name="str_recommendation">Recomendados para ti</string>
+</resources>
